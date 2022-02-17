@@ -11,7 +11,8 @@ class Player:
 	armor = "Clothing"
 	hpupg = 0
 	lockpicks = False
-
+	
+#Enimies
 class Goblin:
 	def __init__(self):
 		self.hp = 9
